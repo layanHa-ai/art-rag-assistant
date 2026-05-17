@@ -40,7 +40,17 @@ bash streamlit run app.py
 
 ## Project Structure
 
-bash art-rag-assistant/ │ ├── app.py ├── requirements.txt ├── README.md ├── data/ └── utils/ 
+## Project Structure
+
+
+art-rag-assistant/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── documents/
+└── .gitignore
+
 
 ## Future Improvements
 
